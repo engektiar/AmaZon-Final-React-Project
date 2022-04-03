@@ -1,0 +1,33 @@
+.header-full {
+  height: 70px;
+  width: 100%;
+}
+.logo {
+  width: 150px;
+  height: 40px;
+}
+.header-from {
+  width: 900px;
+}
+.gust {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  color: white;
+  font-size: 12px;
+  text-transform: capitalize;
+  text-align: center;
+}
+.nav-link {
+  width: auto;
+}
+.headerLink {
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: capitalize;
+  text-align: center;
+}
+.basket {
+  color: #fff;
+}
